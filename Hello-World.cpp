@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main()
 {
-cout<<"Hello World";
+cout<<"Hello World\n Bye.";
+retun 0;
 }
